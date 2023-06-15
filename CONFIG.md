@@ -3,34 +3,32 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-emotional-support-pets
+bskynz
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-Emotional Support Pets
-
+🇳🇿
 # description
 
 > This is the description of the feed.
 
-Cute animals feed
+A simple feed that collates mentions of related to NZ in posts and replies
 
 # searchTerms
 
-> Search Terms are now more powerful. There are two types:
->
-> - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
-> - Keywords (maximum 5 terms): Test these in [https://bsky.app/search](https://bsky.app/search). `AND` is implicit, so `cat dog` on one line will require both `cat` and `dog`. You can use quotes as well `"hot dog"`.
->
+> Maximum of five search terms. Test these in [https://bsky.app/search](https://bsky.app/search). `AND` is implicit, so `cat dog` on one line will require both `cat` and `dog`. You can use quotes as well `"hot dog"`.
 
-- https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- Aotearoa
+- New Zealand
+- Auckland
+- Wellington
+- Christchurch
+- Dunedin
+- New Plymouth
+- NZ
+- 🇳🇿
 
 # avatar
 

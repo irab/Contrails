@@ -1,5 +1,5 @@
 // let's be nice
-const MAX_SEARCH_TERMS = 5;
+const MAX_SEARCH_TERMS = 10;
 const DEFAULT_LIMIT = 40;
 
 const DID_JSON = {
